@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UserStat</string>
+    <string name="repos">Repos: </string>
+    <string name="gists">Gists: </string>
+    <string name="follower">Followers: </string>
+
+</resources>
